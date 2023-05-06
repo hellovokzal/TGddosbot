@@ -1,5 +1,5 @@
 # Имя вашего бота
-botname = "NAME"
+botname = "STARBOMBER"
 # Сюда токен
-token = "TOKEN"
+token = "5985116879:AAGSCSJkJlSJUlcOxrp_DVv3HMWI-XgNxlg"
 # Код бота в main.py
