@@ -30,4 +30,4 @@ def ddoss (message):
 def author (message):
   bot.send_message(message.chat.id, "Написал код данного бота: 0xSn1kky =)")
   
-bot.polling(none_stop=True, interval=0)
+bot.polling()
